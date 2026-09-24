@@ -1,0 +1,57 @@
+.centralizar{
+	text-align: center;
+}
+
+li{
+	list-style-position: inside;
+}
+
+img.centralizar{
+	display: block;
+	margin: auto;
+}
+#titulo{
+	font-size: 80px;
+	color: black;
+}
+
+.lista1{
+	font-size: 35px;
+	color: #31c6f7;
+}
+
+.subtitulo{
+	font-size: 40px;
+	color: white;
+}
+
+p, .lista2{
+	font-size: 25px;
+	color: #31c6f7;
+	padding-left: 55px;
+}
+
+
+.cabecalho{
+	font-size: 20px;
+	background-color: #0056cf;
+	border-radius: 15px;
+}
+
+body{
+	background-color: #616769;
+}
+
+.highlight{
+	background-color: #013d91;
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-size: 2500px 100px;
+	border-radius: 25px;
+}
+
+.voltar{
+	font-size: 20px;
+	background-color: #0056cf;
+	border-radius: 15px;
+}
