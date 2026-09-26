@@ -27,19 +27,22 @@ img.centralizar{
 
 p, .lista2{
 	font-size: 25px;
-	color: #31c6f7;
+	color: #000257;
 	padding-left: 55px;
 }
 
 
 .cabecalho{
 	font-size: 20px;
-	background-color: #0056cf;
+	background-color: #1f71ff;
 	border-radius: 15px;
 }
 
 body{
-	background-color: #616769;
+	background-image: url(../img/fundo_site.png);
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .highlight{
@@ -52,6 +55,6 @@ body{
 
 .voltar{
 	font-size: 20px;
-	background-color: #0056cf;
+	background-color: #1f71ff;
 	border-radius: 15px;
 }
